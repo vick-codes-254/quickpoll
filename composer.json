@@ -1,0 +1,16 @@
+{
+  "name": "victor-wanyama/quickpoll",
+  "description": "Instant polls with live results, built in PHP + SQLite.",
+  "version": "1.1.0",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Victor Wanyama"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "ext-pdo_sqlite": "*"
+  }
+}
